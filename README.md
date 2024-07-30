@@ -31,3 +31,5 @@
 https://github.com/ElectriX/LeetCode_To_GitHub
 
 ![](https://leetcard.ElectriX.cool/jacoblincool?hide=ranking,total-solved-text,easy-solved-count,medium-solved-count,hard-solved-count)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
