@@ -32,5 +32,6 @@
 
 
 <h3 align="left">Leetcode stats:</h3>
+<a href="https://www.leetcode.com/electrix" target="blank"> <h3 align="left">Leetcode stats:</h3> </a>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ElectriX)
