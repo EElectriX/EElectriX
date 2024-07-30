@@ -32,3 +32,8 @@
 <a href="https://www.leetcode.com/electrix" > leetcode status: </a>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ElectriX)
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote"/>
+</p>
+
