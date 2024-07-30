@@ -29,6 +29,6 @@
 
 
 
-<a href="https://www.leetcode.com/electrix" >Leetcode stats: </a>
+<a href="https://www.leetcode.com/electrix" > <h3>Github Stats:</h3> </a>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ElectriX)
