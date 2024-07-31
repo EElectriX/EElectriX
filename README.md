@@ -29,7 +29,7 @@
 
 
 
-<a href="https://www.leetcode.com/electrix" > leetcode status: </a>
+<h3> <a href="https://www.leetcode.com/electrix" > leetcode status: </a> </h3>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ElectriX)
 
