@@ -66,7 +66,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50"/> 
     </a> 
     <a href="https://fastapi.tiangolo.com/" target="_blank"> 
-      <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" alt="FastAPI" width="50"/> 
+      <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" alt="FastAPI" height="30"/> 
     </a> 
     <a href="https://flask.palletsprojects.com/" target="_blank">  
       <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="50"/> 
