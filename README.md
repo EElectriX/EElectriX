@@ -20,7 +20,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div align="center">
+<div align="">
   <h2>Tech Stack</h2>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
     <a href="https://www.cprogramming.com/" target="_blank"> 
