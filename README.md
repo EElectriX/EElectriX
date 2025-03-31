@@ -20,8 +20,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div align="">
-  <h2>Tech Stack</h2>
+<div align="center">
+  <h2>🚀 Tech Stack</h2>
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
     <a href="https://www.cprogramming.com/" target="_blank"> 
       <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="50"/> 
@@ -66,10 +66,10 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50"/> 
     </a> 
     <a href="https://fastapi.tiangolo.com/" target="_blank"> 
-      <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" alt="FastAPI" height="30"/> 
+      <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" alt="FastAPI" height="35"/> 
     </a> 
     <a href="https://flask.palletsprojects.com/" target="_blank">  
-      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="50"/> 
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="35"/> 
     </a> 
     <a href="https://azure.microsoft.com/en-in/" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="50"/> 
@@ -94,6 +94,7 @@
     </a> 
   </div>
 </div>
+
 
 
 <h3 align="left">Github Stats:</h3>
